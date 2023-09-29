@@ -1,0 +1,14 @@
+C:\Users\DallasHolbrook\source\repos\LINQ_Dallas\LINQ_Dallas\bin\Debug\net6.0\LINQ_Dallas.exe
+C:\Users\DallasHolbrook\source\repos\LINQ_Dallas\LINQ_Dallas\bin\Debug\net6.0\LINQ_Dallas.deps.json
+C:\Users\DallasHolbrook\source\repos\LINQ_Dallas\LINQ_Dallas\bin\Debug\net6.0\LINQ_Dallas.runtimeconfig.json
+C:\Users\DallasHolbrook\source\repos\LINQ_Dallas\LINQ_Dallas\bin\Debug\net6.0\LINQ_Dallas.dll
+C:\Users\DallasHolbrook\source\repos\LINQ_Dallas\LINQ_Dallas\bin\Debug\net6.0\LINQ_Dallas.pdb
+C:\Users\DallasHolbrook\source\repos\LINQ_Dallas\LINQ_Dallas\obj\Debug\net6.0\LINQ_Dallas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DallasHolbrook\source\repos\LINQ_Dallas\LINQ_Dallas\obj\Debug\net6.0\LINQ_Dallas.AssemblyInfoInputs.cache
+C:\Users\DallasHolbrook\source\repos\LINQ_Dallas\LINQ_Dallas\obj\Debug\net6.0\LINQ_Dallas.AssemblyInfo.cs
+C:\Users\DallasHolbrook\source\repos\LINQ_Dallas\LINQ_Dallas\obj\Debug\net6.0\LINQ_Dallas.csproj.CoreCompileInputs.cache
+C:\Users\DallasHolbrook\source\repos\LINQ_Dallas\LINQ_Dallas\obj\Debug\net6.0\LINQ_Dallas.dll
+C:\Users\DallasHolbrook\source\repos\LINQ_Dallas\LINQ_Dallas\obj\Debug\net6.0\refint\LINQ_Dallas.dll
+C:\Users\DallasHolbrook\source\repos\LINQ_Dallas\LINQ_Dallas\obj\Debug\net6.0\LINQ_Dallas.pdb
+C:\Users\DallasHolbrook\source\repos\LINQ_Dallas\LINQ_Dallas\obj\Debug\net6.0\LINQ_Dallas.genruntimeconfig.cache
+C:\Users\DallasHolbrook\source\repos\LINQ_Dallas\LINQ_Dallas\obj\Debug\net6.0\ref\LINQ_Dallas.dll
